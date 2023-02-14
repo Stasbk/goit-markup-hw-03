@@ -325,7 +325,7 @@ body {
 .team {
   background-color: #f4f4fd;
   padding-bottom: var(--specific-ident);
-  padding-top: var(var--specific-ident);
+  padding-top: var(--specific-ident);
 }
 
 .team-list-item {
